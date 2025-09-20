@@ -1,0 +1,7 @@
+Se realizaron 3 pantallas. 
+
+1.- Simulación de login. 
+2.- Información de tripulante. 
+3.- "Inventario" de tripulante.
+
+Del moodboard se eligió mantener un fondo negro/oscuro y una tipografía de color verde, además de cuadros con borde verde que enmarcan la mayoría de los textos.   
